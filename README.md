@@ -1,6 +1,6 @@
 # kyrolab_edyong
 
-Edge Detection Algorithm in image processing.
+Edge Detection Algorithm for image processing.
 
 Written in matlab (m file), the program takes an image (.jpg, etc format) as an input and
 produces an edge bitmap (black and white) as an output.
